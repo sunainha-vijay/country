@@ -2,8 +2,6 @@
 
 A Streamlit-based web application that provides financial information about countries, including currency rates, stock market indices, and geographical location data.
 
-![Country Finance Agent Screenshot](https://raw.githubusercontent.com/yourusername/country-finance-agent/main/screenshot.png)
-
 ## Features
 
 - **Currency Information**: Get the official currency name and ISO code for any country
