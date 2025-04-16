@@ -1,1 +1,4 @@
+requests 
 streamlit
+yfinance 
+python-dotenv
